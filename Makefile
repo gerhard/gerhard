@@ -153,7 +153,7 @@ gc: gcloud_config
 .PHONY: gcloud
 gcloud: gcloud_config build
 	cd site \
-	&& $(GSUTIL) -o "GSUtil:parallel_process_count=1" -m rsync -c -d -r public gs://$(WEB_DOMAIN)
+	&& $(GSUTIL) -o "GSUtil:parallel_process_count=1" -m rsync -d -r public gs://$(WEB_DOMAIN)
 .PHONY: g
 g: gcloud
 
