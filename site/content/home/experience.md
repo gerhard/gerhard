@@ -19,7 +19,7 @@ date_format = "2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "Founder"
+  title = "Solo Content Creator"
   company = "Make it Work"
   company_url = "https://makeitwork.tv/"
   location = ""
