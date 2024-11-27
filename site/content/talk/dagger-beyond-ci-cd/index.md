@@ -20,7 +20,7 @@ image:
   focal_point: Center
 
 links:
-- name: Dagger Switzerland
+- name: 🇨🇭Dagger Switzerland
   url: https://www.meetup.com/dagger_bern
 
 url_code:

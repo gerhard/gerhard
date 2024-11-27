@@ -27,8 +27,8 @@ date_format = "2006"
   date_end = ""
   description = """
 * Movies for infra nerds: [makeitwork.tv](https://makeitwork.tv)
-* Infrastructure podcast: [makeitwork.fm](https://makeitwork.fm)
-* **Next.js, Go, Talos, Bunny CDN, DaVinci Resolve, Riverside.fm & Canva.com** <br>
+* Infra podcast: [makeitwork.fm](https://makeitwork.fm)
+* **Next.js, Go, Talos.dev, Bunny.net, DaVinci Resolve, Riverside.fm & Canva.com** <br>
   """
 
 [[experience]]
@@ -45,11 +45,11 @@ date_format = "2006"
 * Kept [dagger/dagger](https://github.com/dagger/dagger) pull requests flowing
 * Set up [weekly auto-releases](https://github.com/dagger/dagger/pull/1372)
 * [Helped launch Dagger v0.2.0](https://changelog.com/shipit/48), Project Europa
-* **Go, BuildKit, GitHub Actions, AWS EKS & Fly.io**<br>
+* **Go, BuildKit, GitHub Actions, BetterStack, AWS EKS & Fly.io**<br>
   """
 
 [[experience]]
-  title = "Infra Team"
+  title = "Infrastructure Team"
   company = "Changelog"
   company_url = "https://www.changelog.com/"
   location = ""
